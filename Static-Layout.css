@@ -1,0 +1,217 @@
+
+body{
+    font-size: 14px;
+    font-family: roboto, sans-serif;
+}
+#top{
+    background-image: url(https://www.kastapp.co/images/gradient-violet-bg.jpg) ;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    background-position: 50% 50%;
+    min-height: auto;
+    left: auto;
+    min-height: auto;
+    margin-top: -80px;
+    padding-top: 140px;
+    padding-bottom: 110px;
+}
+#nav{
+    width: 100%;
+    height: 80px;
+    background-color: transparent;
+    position: fixed;
+    top: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    
+}
+#logo{
+    display: inline-grid;
+}
+#topNav{
+    float: right;
+    color: white;
+    display: inline;
+    display: flex;
+    margin-left: 48%;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.tinyNav{
+    margin-right: 2em;
+}
+#topButton{
+    background-color: transparent;
+    border: solid 2px white;
+    color: white;
+    border-radius: 2px;
+    text-decoration: none;
+    max-height: 27px;
+    margin-top: 26px;
+    margin-left: 40px;
+    padding-top: 6px;
+    text-align: center;
+}
+
+
+
+#watch{
+    text-align: center;
+    margin-top: -80px;
+    padding-top: 180px;
+    padding-bottom: 110px;
+    color: white;
+    background-image: url(https://www.kastapp.co/images/gradient-violet-bg.jpg) ;
+    background-size: cover;
+}
+
+#feature{
+    background-color: white;
+    height: 90vh;
+    width: 100%;
+    text-align: center;
+    padding-top: 110px;
+    
+    
+}
+
+#sites{
+    max-width: 880px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0%;
+    margin-bottom: 0%; 
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    grid-column-gap: 140px;
+    grid-row-gap: 80px; 
+}
+#what{
+    background-image: url(https://www.kastapp.co/images/green-bg.jpg);
+    background-size: cover;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    text-align: center;
+
+}
+
+#try{
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+#player{
+    height: 300%;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: auto;
+}
+
+#player2{
+    margin-left: 20%;
+    margin-right: auto;
+}
+#premium{
+    background-color:  #434146;
+    padding-top: 110px;
+    padding-bottom: 110px;
+    color: white;
+    text-align: center;
+}
+
+.featurettes{
+    border-radius: 15px;
+    background-color: #2b2b33;
+    max-width: 250px;
+    color: white;
+    text-align: center;
+    
+}
+
+#fiveBox{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+   max-width: 1000px;
+   justify-content: center;
+
+}
+
+#feat1{
+    margin: 16px;
+}
+
+#feat2{
+    margin: 16px;
+}
+
+#feat3{
+    margin: 16px;
+}
+#feat4{
+    margin: 16px;
+}
+
+#feat5{
+    
+    margin: 16px;
+}
+
+.heading2{
+    font-size: 48px;
+    text-align: center;
+    line-height: 48px;
+    font-weight: 500;
+    font-style:inherit;
+
+}
+
+.headingwhite{
+    color: white;
+}
+#h3{
+    font-size: 24px;
+}
+.button{
+    background-color: #fe9000;
+    min-width: 240px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-width: rgba(254, 144, 0, 0);
+    font-size: 18px;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    text-decoration: none;
+    letter-spacing: 1.44px;
+}
+.paragraph{
+    font-size: 20px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    text-align: center;
+    max-width: 560px;
+}
+
+.pWhite{
+    color: white;
+}
+
+
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+
+
